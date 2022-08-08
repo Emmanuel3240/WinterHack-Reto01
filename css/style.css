@@ -1,14 +1,9 @@
 body {
   background-color: #0162b3;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-h1,
-h3,
-p {
+  font-family: "Roboto", sans-serif;
   color: #f1f3f4;
 }
 
 img {
-  width: 30%;
+  width: 20%;
 }
